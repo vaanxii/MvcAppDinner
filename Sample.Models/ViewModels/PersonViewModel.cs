@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Fake.Model
+namespace Sample.Models.ViewModels
 {
-    public class Class1
+    public class PersonViewModel
     {
     }
 }
